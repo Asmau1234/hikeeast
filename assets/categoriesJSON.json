@@ -1,0 +1,36 @@
+{
+	"categories": [
+        {
+            "id": "01",
+            "name": "Accommodation"
+			
+        },
+        {
+            "id": "02",
+            "name": "Activity"
+			
+        },
+        {
+            "id": "03",
+            "name": "Pub"
+		
+		},	
+        {
+		
+            "id": "04",
+            "name": "Shop"
+			
+        },
+		
+        {
+            "id": "05",
+            "name": "Tour"
+			
+        },
+        {
+            "id": "06",
+            "name": "Restaurant"
+			
+        }
+    ]
+}

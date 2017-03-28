@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hikeeast</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_section1">Destinations</string>
+    <string name="title_section2">Contact Us</string>
+    <string name="title_section3">About</string>
+    <string name="contact_name">İlker Bayraktar (Project Manager)</string>
+    <string name="contact_number">Phone : +90 212 245 0988</string>
+    <string name="contact_email">E-mail : info@hikeast.com</string>
+    <string name="contact_address">Address : Asmalımescit Cad. No:29/4 Beyoğlu - İstanbul</string>
+    <string name="emailtxtview">Email:</string>
+    <string name="yourmessage">Your Message</string>
+    <string name="submit">Submit</string>
+    <string name="nametxtview">Name:</string>
+    <string name="yourname">Your Name</string>
+    <string name="aboutus">
+<![CDATA[ <p>
+    Hike East is a free guidebook bringing tons of great information about traveling in Turkey right to
+     your fingertips, including discounts on all kinds of services throughout the country, 
+    from hostel stays to drinks to extreme sports experiences.
+</p>
+<div>
+We provide an easy-to-understand, useful and up-to-date guidebook to make your travels in Turkey as memorable 
+and affordable as possible, and best of all, all this info is completely on the house!
+<div>
+On our website, you can find a range of resouces designed to help you out whether you are planning a 
+trip to Turkey or already here. Talk to fellow travelers on the forums, learn about upcoming events, 
+sell your stuff (or buy someone elses), or plan where to stay in your next port of call.
+<div>
+You can pick up a print version of the guidebook from any of the awesome hostels, restaurants, 
+and companies featured in Hike East.
+<div>
+Did we mention its free?]]>
+    </string>
+    <string name="title_activity_locations">LocationsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_locations_tab">LocationsTab</string>
+    <string name="title_activity_category_tab">CategoryTab</string>
+    <string name="title_activity_destinations_tab">DestinationsTab</string>
+    <string name="title_activity_location_items">LocationItems</string>
+    <string name="title_activity_category_items">CategoryItems</string>
+    <string name="title_activity_partners_info">PartnersInfo</string>
+    <string name="search_hint">Search Hikeeast</string>
+    <string name="ourpartners">Our Partners</string>
+    <string name="title_activity_app_launcher">AppLauncher</string>
+    <string name="title_activity_full_image">FullImage</string>
+    <string name="title_activity_marker_click">MarkerClickActivity</string>
+
+</resources>

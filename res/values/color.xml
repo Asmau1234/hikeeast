@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="my_green">#59ab1b</color>
+    <color name="white">#ffffff</color>
+    <color name="list_divider">#707070</color>
+</resources>
